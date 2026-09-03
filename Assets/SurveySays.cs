@@ -39,6 +39,7 @@ public class SurveySays : MonoBehaviour
     private static readonly string Vowels = "AEIOU";
     private string Input, Last, Typing, Letters;
     private bool Submission, Go = true, Solved;
+    private static bool ready=false;
     private EdgeworkModule Selected;
     private RepoModule SelectedRepo;
     private List<string> NameArray = new List<string> { };
@@ -105,11 +106,16 @@ public class SurveySays : MonoBehaviour
         Debug.LogFormat("[Survey Says #{0}]: Today we will be surveying the module {1}.", moduleId, Selected.FullName);
         Last = "";
         Input = "";
+        SelectedRepo = null;
         Submission = false;
     }
 
     void Handlepress(KMSelectable btn)
     {
+        if(!ready)
+        {
+            return;
+        }
         int i = int.Parse(ColorOrder[Array.IndexOf(Buttons, btn)].ToString());
         int a = Array.IndexOf(Buttons, btn);
         Buttons[a].AddInteractionPunch();
@@ -317,6 +323,7 @@ public class SurveySays : MonoBehaviour
                 Debug.LogFormat("An error has occurred while fetching modules from the repository: {0}. Using current version.", Fetch.error);
             }
         dumb = 0;
+        ready = true;
     }
     IEnumerator Sink(KMSelectable b)
     {
