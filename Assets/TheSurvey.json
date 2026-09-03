@@ -763,5 +763,410 @@
  "Name":"SKYRIM",
  "EdgeworkBinary":"10010000",
  "FullName":"Skyrim"
+},
+{
+ "Name":"BURGLARALARM",
+ "EdgeworkBinary":"11111100",
+ "FullName":"Burglar Alarm"
+},
+{
+ "Name":"PRESSX",
+ "EdgeworkBinary":"10110001",
+ "FullName":"Press X"
+},
+{
+ "Name":"EUROPEANTRAVEL",
+ "EdgeworkBinary":"00000000",
+ "FullName":"European Travel"
+},
+{
+ "Name":"ERRORCODES",
+ "EdgeworkBinary":"10010000",
+ "FullName":"Error Codes"
+},
+{
+ "Name":"LEGOS",
+ "EdgeworkBinary":"00000000",
+ "FullName":"LEGOs"
+},
+{
+ "Name":"RUBIKSCLOCK",
+ "EdgeworkBinary":"11000000",
+ "FullName":"Rubik's Clock"
+},
+{
+ "Name":"FONTSELECT",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Font Select"
+},
+{
+ "Name":"THESTOPWATCH",
+ "EdgeworkBinary":"10010001",
+ "FullName":"The Stopwatch"
+},
+{
+ "Name":"PIE",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Pie"
+},
+{
+ "Name":"THEWIRE",
+ "EdgeworkBinary":"11110101",
+ "FullName":"The Wire"
+},
+{
+ "Name":"THELONDONUNDERGROUND",
+ "EdgeworkBinary":"00000000",
+ "FullName":"The London Underground"
+},
+{
+ "Name":"LOGICGATES",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Logic Gates"
+},
+{
+ "Name":"GRIDMATCHING",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Grid Matching"
+}
+{
+ "Name":"COLORDECODING",
+ "EdgeworkBinary":"11100000",
+ "FullName":"Color Decoding"
+},
+{
+ "Name":"THESUN",
+ "EdgeworkBinary":"11111100",
+ "FullName":"The Sun"
+},
+{
+ "Name":"PLAYFAIRCIPHER",
+ "EdgeworkBinary":"11110001",
+ "FullName":"Playfair Cipher"
+},
+{
+ "Name":"TANGRAMS",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Tangrams"
+},
+{
+ "Name":"THENUMBER",
+ "EdgeworkBinary":"11111111",
+ "FullName":"The Number"
+},
+{
+ "Name":"COOKING",
+ "EdgeworkBinary":"11111110",
+ "FullName":"Cooking"
+},
+{
+ "Name":"SUPERLOGIC",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Superlogic"
+},
+{
+ "Name":"THEMOON",
+ "EdgeworkBinary":"11110100",
+ "FullName":"The Moon"
+},
+{
+ "Name":"THECUBE",
+ "EdgeworkBinary":"00010000",
+ "FullName":"The Cube"
+},
+{
+ "Name":"DRDOCTOR",
+ "EdgeworkBinary":"11111001",
+ "FullName":"Dr. Doctor"
+},
+{
+ "Name":"TAXRETURNS",
+ "EdgeworkBinary":"01100000",
+ "FullName":"Tax Returns"
+},
+{
+ "Name":"THEJEWELVAULT",
+ "EdgeworkBinary":"00010000",
+ "FullName":"The Jewel Vault"
+},
+{
+ "Name":"DIGITALROOT",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Digital Root"
+},
+{
+ "Name":"GRAFFITINUMBERS",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Graffiti Numbers"
+},
+{
+ "Name":"MARBLETUMBLE",
+ "EdgeworkBinary":"00000001",
+ "FullName":"Marble Tumble"
+},
+{
+ "Name":"X01",
+ "EdgeworkBinary":"11110000",
+ "FullName":"X01"
+},
+{
+ "Name":"LOGICALBUTTONS",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Logical Buttons"
+},
+{
+ "Name":"THECODE",
+ "EdgeworkBinary":"11110000",
+ "FullName":"The Code"
+},
+{
+ "Name":"TAPCODE",
+ "EdgeworkBinary":"00010000",
+ "FullName":"Tap Code"
+},
+{
+ "Name":"SIMONSINGS",
+ "EdgeworkBinary":"11110100",
+ "FullName":"Simon Sings"
+},
+{
+ "Name":"SIMONSENDS",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Simon Sends"
+},
+{
+ "Name":"SYNONYMS",
+ "EdgeworkBinary":"00110100",
+ "FullName":"Synonyms"
+},
+{
+ "Name":"GREEKCALCULUS",
+ "EdgeworkBinary":"11111100",
+ "FullName":"Greek Calculus"
+},
+{
+ "Name":"SIMONSHRIEKS",
+ "EdgeworkBinary":"00010000",
+ "FullName":"Simon Shrieks"
+},
+{
+ "Name":"COMPLEXKEYPAD",
+ "EdgeworkBinary":"11100000",
+ "FullName":"Complex Keypad"
+},
+{
+ "Name":"SUBWAYS",
+ "EdgeworkBinary":"10000000",
+ "FullName":"Subways"
+},
+{
+ "Name":"LASERS",
+ "EdgeworkBinary":"00000001",
+ "FullName":"Lasers"
+},
+{
+ "Name":"TURTLEROBOT",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Turtle Robot"
+},
+{
+ "Name":"GUITARCHORDS",
+ "EdgeworkBinary":"11110000",
+ "FullName":"Guitar Chords"
+},
+{
+ "Name":"CALENDAR",
+ "EdgeworkBinary":"00010000",
+ "FullName":"Calendar"
+},
+{
+ "Name":"USAMAZE",
+ "EdgeworkBinary":"00000000",
+ "FullName":"USA Maze"
+},
+{
+ "Name":"BINARYTREE",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Binary Tree"
+},
+{
+ "Name":"THETIMEKEEPER",
+ "EdgeworkBinary":"11111101",
+ "FullName":"The Time Keeper"
+},
+{
+ "Name":"LIGHTSPEED",
+ "EdgeworkBinary":"10100100",
+ "FullName":"Lightspeed"
+},
+{
+ "Name":"BLACKHOLE",
+ "EdgeworkBinary":"01010000",
+ "FullName":"Black Hole"
+},
+{
+ "Name":"SIMONSSTAR",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Simon's Star"
+},
+{
+ "Name":"MORSEWAR",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Morse War"
+},
+{
+ "Name":"THESTOCKMARKET",
+ "EdgeworkBinary":"00000000",
+ "FullName":"The Stock Market"
+},
+{
+ "Name":"MINESEEKER",
+ "EdgeworkBinary":"00111110",
+ "FullName":"Mineseeker"
+},
+{
+ "Name":"MAZESCRAMBLER",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Maze Scrambler"
+},
+{
+ "Name":"THENUMBERCIPHER",
+ "EdgeworkBinary":"00000000",
+ "FullName":"The Number Cipher"
+},
+{
+ "Name":"ALPHABETNUMBERS",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Alphabet Numbers"
+},
+{
+ "Name":"BRITISHSLANG",
+ "EdgeworkBinary":"00000000",
+ "FullName":"British Slang"
+},
+{
+ "Name":"DOUBLECOLOR",
+ "EdgeworkBinary":"10000001",
+ "FullName":"Double Color"
+},
+{
+ "Name":"MARITIMEFLAGS",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Maritime Flags"
+},
+{
+ "Name":"EQUATIONS",
+ "EdgeworkBinary":"00110000",
+ "FullName":"Equations"
+},
+{
+ "Name":"PATTERNCUBE",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Pattern Cube"
+},
+{
+ "Name":"KNOWYOURWAY",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Know Your Way"
+},
+{
+ "Name":"SPLITTINGTHELOOT",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Splitting The Loot"
+},
+{
+ "Name":"SIMONSAMPLES",
+ "EdgeworkBinary":"00010000",
+ "FullName":"Simon Samples"
+},
+{
+ "Name":"CHARACTERSHIFT",
+ "EdgeworkBinary":"11111101",
+ "FullName":"Character Shift"
+},
+{
+ "Name":"UNCOLOREDSQUARES",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Uncolored Squares"
+},
+{
+ "Name":"DRAGONENERGY",
+ "EdgeworkBinary":"10111101",
+ "FullName":"Dragon Energy"
+},
+{
+ "Name":"FLASHINGLIGHTS",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Flashing Lights"
+},
+{
+ "Name":"3DTUNNELS",
+ "EdgeworkBinary":"00000000",
+ "FullName":"3D Tunnels"
+},
+{
+ "Name":"SYNCHRONIZATION",
+ "EdgeworkBinary":"00000001",
+ "FullName":"Synchronization"
+},
+{
+ "Name":"THESWITCH",
+ "EdgeworkBinary":"11110001",
+ "FullName":"The Switch"
+},
+{
+ "Name":"REVERSEMORSE",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Reverse Morse"
+},
+{
+ "Name":"MANOMETERS",
+ "EdgeworkBinary":"11111101",
+ "FullName":"Manometers"
+},
+{
+ "Name":"SHIKAKU",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Shikaku"
+},
+{
+ "Name":"WIRESPAGHETTI",
+ "EdgeworkBinary":"10100100",
+ "FullName":"Wire Spaghetti"
+},
+{
+ "Name":"TENNIS",
+ "EdgeworkBinary":"00010000",
+ "FullName":"Tennis"
+},
+{
+ "Name":"MODULEHOMEWORK",
+ "EdgeworkBinary":"11110000",
+ "FullName":"Module Homework"
+},
+{
+ "Name":"BENEDICTCUMBERBATCH",
+ "EdgeworkBinary":"11111000",
+ "FullName":"Benedict Cumberbatch"
+},
+{
+ "Name":"SIGNALS",
+ "EdgeworkBinary":"00000001",
+ "FullName":"Signals"
+},
+{
+ "Name":"HORRIBLEMEMORY",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Horrible Memory"
+},
+{
+ "Name":"BOGGLE",
+ "EdgeworkBinary":"00000000",
+ "FullName":"Boggle"
+},
+{
+ "Name":"BOOLEANMAZE",
+ "EdgeworkBinary":"00010000",
+ "FullName":"Boolean Maze"
 }
 ]
